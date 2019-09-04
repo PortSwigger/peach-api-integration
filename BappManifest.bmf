@@ -1,9 +1,9 @@
-Uuid: 195fff8fc1b2414891541d23ea53a797
+Uuid: e02d4baa8ae345f49edd82c559bda513
 ExtensionType: 1
-Name: PeachApiSec-Burp
-RepoName: peachapisec-burp
+Name: Peach API Integration
+RepoName: peach-api-integration
 ScreenVersion: 1.0.0
-SerialVersion: 0
+SerialVersion: 1
 MinPlatformVersion: 0
 ProOnly: False
 Author: Peach Tech
