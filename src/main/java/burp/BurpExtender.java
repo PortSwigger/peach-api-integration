@@ -43,8 +43,8 @@ public class BurpExtender implements IBurpExtender, IContextMenuFactory, IExtens
         sout.println("Peach API Security Burp Extension");
         sout.println("Copyright (c) Peach Tech");
         sout.println("");
-        sout.println("Extention Version: " + _prefs.getVersion());
-        sout.println("Peach API API Version: " + PeachApiSecurity.getApiVersion());
+        sout.println("Extension Version: " + _prefs.getVersion());
+        sout.println("Peach API Version: " + PeachApiSecurity.getApiVersion());
         sout.println("");
         sout.println("Extention loaded successfully!");
         sout.println("");

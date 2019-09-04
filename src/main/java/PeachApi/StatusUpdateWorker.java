@@ -201,8 +201,8 @@ public class StatusUpdateWorker extends SwingWorker<Void, Void>
             stderr.println("If error continues, please report to support@peach.tech.");
             stderr.println("Include full output from this screen and also the generated support bundle from the Peach API Security web UI.");
             stderr.println("");
-            stderr.println("    Extention Version: " + _prefs.getVersion());
-            stderr.println("Peach API API Version: " + PeachApiSecurity.getApiVersion());
+            stderr.println("    Extension Version: " + _prefs.getVersion());
+            stderr.println("Peach API Version: " + PeachApiSecurity.getApiVersion());
             stderr.println("");
             stderr.println("Exception information:");
             stderr.println(exx.toString());
